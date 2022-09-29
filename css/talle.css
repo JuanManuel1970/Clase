@@ -1,0 +1,38 @@
+form    {display: inline-block;
+          background-color: rgb(193, 237, 237);}
+
+h1      {background-color: green;
+        display: inline-block;}
+
+nav     {color: green;font-size: 25px;}
+
+h1      {background-color: rgb(212, 31, 31);
+        display:inline-block;
+        text-align: center;
+        margin-left: 6em;
+        margin-top: 0px;
+        padding: 10px 10px;
+        border:8px groove rgb(9, 166, 238);
+        border-radius:50%;
+        font-size: 3.75em;
+        box-shadow: 13px 12px 13px 0 rgb(113, 143, 189);
+        height: 80px;
+        width: 420px;
+        text-shadow: 4px 2px 4px rgb(236, 236, 241);
+        }
+        
+h1:hover {background-color: rgb(22, 87, 227);
+            display:inline-block;
+            text-align: center;
+            margin-left: 6em;
+            margin-top: 0px;
+            padding: 10px 10px;
+            border:8px groove rgb(238, 9, 9);
+            border-radius:20%;
+            font-size: 3.75em;
+            box-shadow: 13px 12px 13px 0 rgb(113, 143, 189);
+            height: 80px;
+            width: 420px;
+            text-shadow: 4px 2px 4px rgb(236, 236, 241);
+            transition: 1s;}
+        body {background-color: rgba(148, 141, 141, 0.979)

@@ -1,0 +1,112 @@
+body    {background-color: rgb(0, 0, 0);}
+
+h1      {color: rgb(19, 19, 20);}
+
+.lorem  {color: rgb(231, 216, 216);margin: 40px;}
+
+footer  {color :red;}
+
+.material-symbols-outlined{color: rgb(11, 11, 207);}
+
+h3      {color: red;font-size: 2em;display: inline;
+         border-left:groove 8px green;        
+         border-top: groove 8px green;transition: 5s;}
+
+h3:hover {color: rgb(0, 68, 255);font-size: 4em;font-family:sans-serif;
+         border-left:none;        
+         border-top: none;
+         border-bottom: groove 8px yellow;
+         border-right: groove 8px yellow;
+        text-align: center;}
+
+.lor    {color:orange;display:inline-block;margin: 40px;}
+
+.lor:first-letter{font-size: 50px;color: rgb(193, 183, 52);}
+
+h1      {background-color: rgb(212, 31, 31);
+        text-align: center;
+         display:inline-block;
+         margin-left: 6.3em;
+         margin-top: 0px;
+         padding: 10px 10px;
+         border:8px groove rgb(9, 166, 238);
+         border-radius:95%;
+         font-size: 3.75em;
+         box-shadow: 13px 12px 13px 0 rgb(113, 143, 189);
+         height: 80px;
+         width: 420px;
+         text-shadow: 4px 2px 4px rgb(236, 236, 241);
+         transition: 2s;}
+
+.video  {color:chartreuse; font-size:25px}
+
+.ss     {border-radius: 60%; width: 55em;}
+
+figcaption {color: deeppink;}
+
+
+nav     {color: green;font-size: 25px;}
+
+h1:hover{background-color:black;
+         border: 8px groove rgb(121, 94, 224);
+         display:inline-block;
+         border-radius: 25%;
+         font-size: 5em;
+         color: red;
+         margin-left: 6.3em;
+         font-size: 4em;
+         margin-top: 0px;
+         height: 80px;
+         width: 420px;
+         border-color: beige;
+         position:50px;}
+ 
+
+.li1 , .li2 , .li3 , .li4 , .li5 {background-color: rgb(249, 249, 249);
+         display:inline-block;
+         font-family: fantasy;
+         color:rgb(231, 15, 15);
+         border:1px groove rgb(0, 140, 255);
+         border-radius:10%;
+         box-shadow: 5px 5px 5px 0 rgb(113, 143, 189);
+         font-size: .em;
+         height: 30px;
+         text-align: center;
+         width: 200px;
+         transition: 1.5s;}
+
+.li2 , .li3 , .li4{margin-left: 100px; height: 30px; width: 200px;}          
+
+.li1:hover{background-color: rgb(0, 0, 0);
+         display:inline-block;
+         border:1px groove rgb(143, 147, 158);
+         border-radius:10%;
+         font-size: 1em;
+         height: 30px;
+         width: 105px;}
+
+.li2:hover{background-color: rgb(73, 163, 74);
+         display:inline-block;
+         border:1px groove rgb(143, 147, 158);
+         border-radius:10%;
+         font-size: 1em;
+         height: 30px;
+         width: 135px;}
+         
+.li3:hover{background-color: rgb(31, 212, 188);
+         display:inline-block;
+         border:1px groove rgb(143, 147, 158);
+         border-radius:10%;
+         font-size: 1em;
+          height: 30px;
+         width: 135px;}
+
+.li4:hover{background-color: rgb(204, 0, 255);
+         display:inline-block;
+         border:1px groove rgb(143, 147, 158);
+         border-radius:10%;
+         font-size: 1em;
+         height: 30px;
+         width: 135px;}
+
+
